@@ -7,7 +7,6 @@
 
     const iaval=document.getElementById('out1');
     const dueval=document.getElementById('out2');
-    // const inst=document.getElementById('out3');
     const inputElement = document.getElementById('out3');
 
     function incrementMonth(dateString) {
