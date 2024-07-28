@@ -43,7 +43,7 @@
 
         const currentDate = dateval.value;
         const newDate = incrementMonth(currentDate);
-        inputElement.innerHTML = 'The first installment of Rs '+dueVal+ ' is due on ' +newDate;
+        inputElement.innerHTML = 'The first instalment of Rs '+dueVal+ ' is due on ' +newDate;
         
       }
       
