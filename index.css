@@ -2,13 +2,14 @@ body{
     background-color: rgb(26, 26, 135);
 }
 .box{
-   background-color: aliceblue;
-    position: relative;  
+  background-color: aliceblue;
+    position: relative;
     height: 520px;
     width: 700px;
     border-radius: 10px;
-    margin: 100px;
     margin-left: 400px;
+    margin-top: 90px;
+   
    
 }
 h1{
